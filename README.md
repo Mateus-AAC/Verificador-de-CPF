@@ -2,7 +2,6 @@
 
 <img src="https://fdr.com.br/wp-content/uploads/2020/01/consultou-seu-cpf.png" alt="exemplo imagem">
 
->  Verificador De Cpf
 
 ## 💻 Pré-requisitos
 
