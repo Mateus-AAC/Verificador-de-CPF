@@ -1,6 +1,8 @@
-# Verificador De Cpf
+# Verificador De cpf
 
 <img src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg" alt="exemplo imagem">
+
+>  Verificador De Cpf
 
 ## 💻 Pré-requisitos
 
@@ -8,6 +10,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente de `< Node.js >`
 * Você tem uma máquina `<Windows / Linux / Mac>`. 
+* Você tem que rodar os comandos `<npm install cpf, npm install readline-sync>`. 
+* Para você rodar o projeto `<node index.js>`.
 
 ## 🤝 Colaboradores
 
@@ -25,3 +29,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+
+ 
+
